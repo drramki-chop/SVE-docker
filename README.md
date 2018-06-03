@@ -4,6 +4,8 @@ Dockerfile for building SVE
 
 The Dockerfile provided in the original FusorSV fails during the build. Here's the one tested with Docker v18.03.1
 
+* The original FusorSV repository is here: https://github.com/TheJacksonLaboratory/SVE
+
 ## Some notes
 
 * This image requires >10GB image size (ROOT + all the tools in the SVE)
